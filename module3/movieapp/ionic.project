@@ -1,0 +1,10 @@
+{
+  "name": "movieapp",
+  "app_id": "",
+  "proxies": [
+    {
+      "path": "/tables",
+      "proxyUrl": "http://starwarsapi.azurewebsites.net/tables"
+    }
+   ]
+}
